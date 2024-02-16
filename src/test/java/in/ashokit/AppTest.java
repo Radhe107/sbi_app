@@ -17,10 +17,6 @@ public class AppTest
     {
         assertTrue( true );
      System.out.println( "Hello World! this USS marine" );
-<<<<<<< HEAD
-  System.out.println( "Hello World! this USS marine" );
-=======
-        System.out.println( "Hello" );
->>>>>>> a2e26601fcd4e3142a673d1a3fdc55dd1167e481
-    }
+    System.out.println( "Hello" );
+}
 }
